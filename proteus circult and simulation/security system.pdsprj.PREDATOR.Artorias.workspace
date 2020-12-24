@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8' standalone='yes'?>
 <WORKSPACE>
  <FRAME activewindow="0">
-  <PLACEMENT>2c00000002000000030000000083ffff0083ffffffffffffffffffffcb000000000000008b05000019040000</PLACEMENT>
+  <PLACEMENT>2c0000000200000003000000ffffffffffffffffffffffffffffffffcb000000000000008b05000019040000</PLACEMENT>
   <WINDOW type="default" module="ISIS"/>
  </FRAME>
  <MODULE name="VSMDEBUG">
@@ -34,7 +34,7 @@
    <POPUP w="16" x="168" flags="0000000a" y="280" h="32" pid="7" iid="6">
     <PROPERTIES/>
    </POPUP>
-   <POPUP w="16" x="188" flags="80000000" y="300" h="32" pid="14" iid="6">
+   <POPUP w="16" x="188" flags="00000000" y="300" h="32" pid="14" iid="6">
     <PROPERTIES/>
    </POPUP>
    <POPUP w="16" x="208" flags="0000000a" y="320" h="32" pid="4" iid="6">
@@ -62,7 +62,7 @@
    <POPUP w="16" x="308" flags="0000000a" y="420" h="32" pid="7" iid="4">
     <PROPERTIES/>
    </POPUP>
-   <POPUP w="16" x="328" flags="80000000" y="440" h="32" pid="14" iid="4">
+   <POPUP w="16" x="328" flags="00000000" y="440" h="32" pid="14" iid="4">
     <PROPERTIES/>
    </POPUP>
    <POPUP w="16" x="348" flags="0000000a" y="460" h="32" pid="4" iid="4">
@@ -86,7 +86,7 @@
    <POPUP w="14" x="468" flags="00000008" y="580" h="18" pid="7" iid="2">
     <PROPERTIES/>
    </POPUP>
-   <POPUP w="8" x="488" flags="80000002" y="600" h="8" pid="8" iid="2">
+   <POPUP w="8" x="488" flags="00000000" y="600" h="8" pid="8" iid="2">
     <PROPERTIES/>
    </POPUP>
    <POPUP w="30" x="508" flags="00000008" y="620" h="16" pid="3" iid="3">
@@ -108,7 +108,7 @@
    <POPUP w="16" x="568" flags="0000000a" y="680" h="32" pid="7" iid="3">
     <PROPERTIES/>
    </POPUP>
-   <POPUP w="16" x="588" flags="80000000" y="700" h="32" pid="14" iid="3">
+   <POPUP w="16" x="588" flags="00000000" y="700" h="32" pid="14" iid="3">
     <PROPERTIES/>
    </POPUP>
    <POPUP w="16" x="608" flags="0000000a" y="720" h="32" pid="4" iid="3">
@@ -136,7 +136,7 @@
    <POPUP w="16" x="708" flags="0000000a" y="820" h="32" pid="7" iid="1">
     <PROPERTIES/>
    </POPUP>
-   <POPUP w="16" x="728" flags="80000000" y="840" h="32" pid="14" iid="1">
+   <POPUP w="16" x="728" flags="00000000" y="840" h="32" pid="14" iid="1">
     <PROPERTIES/>
    </POPUP>
    <POPUP w="16" x="748" flags="0000000a" y="860" h="32" pid="4" iid="1">
